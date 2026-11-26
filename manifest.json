@@ -1,0 +1,24 @@
+{
+  "latestVersion": "1.0.1",
+  "release": {
+    "version": "1.0.1",
+    "title": "Quantum OS 1.0.1",
+    "notes": [
+      {
+        "heading": "Screen Saver",
+        "body": "A real idle-triggered screen saver, click to dismiss, with an automatic lock after continued inactivity."
+      },
+      {
+        "heading": "Welcome screen",
+        "body": "The first-boot welcome intro now matches your machine's actual default wallpaper."
+      },
+      {
+        "heading": "Security",
+        "body": "The installed app is now locked down against being edited from a running session."
+      }
+    ],
+    "bundleUrl": "https://github.com/Miguel-pulgay/quantum-os-updates/releases/download/v1.0.1/quantum-os-update-v1.0.1.tar.gz",
+    "sha256": "a663d48c4a978676a114cbd07e63b028d9f57da79d5120b873f5e1a2655d7e55",
+    "sizeBytes": 232048782
+  }
+}
